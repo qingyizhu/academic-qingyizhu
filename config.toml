@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Qingyi Zhu's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -355,6 +355,25 @@ enableGitInfo = false
     name = "祝清意"
     role = "副教授（网络空间安全）"
   [[languages.zh.menu.main]]
-    name = "注意"
+    name = "主页"
     url = "#about"
     weight = 1
+    [[languages.zh.menu.main]]
+      name = "Publications"
+      url = "#publications_selected"
+      weight = 2
+
+    [[languages.zh.menu.main]]
+      name = "Posts"
+      url = "#posts"
+      weight = 3
+
+    [[languages.zh.menu.main]]
+      name = "Projects"
+      url = "#projects"
+      weight = 4
+
+    [[languages.zh.menu.main]]
+      name = "Contact"
+      url = "#contact"
+      weight = 6

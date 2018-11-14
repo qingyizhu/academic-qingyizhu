@@ -250,7 +250,7 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  #[[params.social]]
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:zhuqy@cqupt.edu.cn"  # For a direct email link, use "mailto:test@example.org".
